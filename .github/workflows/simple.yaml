@@ -6,7 +6,7 @@ jobs:
     run-shell-command:
       runs-on: ubuntu-latest
       steps:
-        - name: eccho a string
+        - name: ecchasdsado a string
           run: echo "A push has done"
         - name: multiline script
           run: |
